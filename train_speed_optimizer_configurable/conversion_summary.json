@@ -1,0 +1,31 @@
+{
+  "route_endpoint_km": 1447.0,
+  "source_record_counts": {
+    "speed_restrictions": 123,
+    "gradients": 629,
+    "curves": 384
+  },
+  "optimizer_config_record_counts": {
+    "speed_restrictions": 121,
+    "gradients": 626,
+    "curves": 383
+  },
+  "records_entirely_at_or_beyond_route_endpoint": {
+    "speed_restrictions": 2,
+    "gradients": 3,
+    "curves": 1
+  },
+  "records_crossing_route_endpoint": {
+    "speed_restrictions": 0,
+    "gradients": 0,
+    "curves": 1
+  },
+  "validation_issues": [],
+  "notes": [
+    "The individual JSON files preserve all records from the Excel sheets.",
+    "The combined config.json is clipped to the configured route endpoint at km 1447 for compatibility with the supplied HWH-NDLS timetable.",
+    "Gaps in speed restrictions are preserved; the optimiser uses the train line-speed limit where no restriction is specified.",
+    "Gaps in curve records are preserved; the optimiser treats them as no curve (degree 0).",
+    "Gradient sign conversion assumes direction 1 means uphill/ascending, -1 means downhill/descending, and 0 means level, based on the source column heading."
+  ]
+}

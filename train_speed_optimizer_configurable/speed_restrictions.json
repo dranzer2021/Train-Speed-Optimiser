@@ -1,0 +1,624 @@
+{
+  "source_file": "Speed_Restrictions.xlsx",
+  "units": {
+    "chainage": "km",
+    "speed": "km/h"
+  },
+  "speed_restrictions": [
+    {
+      "from_km": 0,
+      "to_km": 0.8,
+      "speed_kmh": 10
+    },
+    {
+      "from_km": 0.8,
+      "to_km": 1.4,
+      "speed_kmh": 15
+    },
+    {
+      "from_km": 2.8,
+      "to_km": 2.85,
+      "speed_kmh": 65
+    },
+    {
+      "from_km": 3,
+      "to_km": 4.3,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 4.3,
+      "to_km": 4.5,
+      "speed_kmh": 75
+    },
+    {
+      "from_km": 4.5,
+      "to_km": 4.9,
+      "speed_kmh": 65
+    },
+    {
+      "from_km": 4.9,
+      "to_km": 7.8,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 7.8,
+      "to_km": 8.6,
+      "speed_kmh": 90
+    },
+    {
+      "from_km": 8.6,
+      "to_km": 9.8,
+      "speed_kmh": 110
+    },
+    {
+      "from_km": 12,
+      "to_km": 13.2,
+      "speed_kmh": 120
+    },
+    {
+      "from_km": 15.2,
+      "to_km": 15.6,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 25.6,
+      "to_km": 25.7,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 41.05,
+      "to_km": 43.15,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 43.15,
+      "to_km": 44.5,
+      "speed_kmh": 75
+    },
+    {
+      "from_km": 44.6,
+      "to_km": 46,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 47.25,
+      "to_km": 48,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 48.8,
+      "to_km": 50.1,
+      "speed_kmh": 75
+    },
+    {
+      "from_km": 50.1,
+      "to_km": 51.2,
+      "speed_kmh": 50
+    },
+    {
+      "from_km": 51.4,
+      "to_km": 52.4,
+      "speed_kmh": 110
+    },
+    {
+      "from_km": 54.5,
+      "to_km": 54.8,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 94.4,
+      "to_km": 104.35,
+      "speed_kmh": 120
+    },
+    {
+      "from_km": 104.35,
+      "to_km": 104.7,
+      "speed_kmh": 90
+    },
+    {
+      "from_km": 104.7,
+      "to_km": 105.9,
+      "speed_kmh": 120
+    },
+    {
+      "from_km": 105.9,
+      "to_km": 106.45,
+      "speed_kmh": 65
+    },
+    {
+      "from_km": 106.5,
+      "to_km": 108.6,
+      "speed_kmh": 120
+    },
+    {
+      "from_km": 182.75,
+      "to_km": 182.9,
+      "speed_kmh": 50
+    },
+    {
+      "from_km": 194.1,
+      "to_km": 195.7,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 210.35,
+      "to_km": 210.65,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 211.9,
+      "to_km": 212.8,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 218.1,
+      "to_km": 218.2,
+      "speed_kmh": 50
+    },
+    {
+      "from_km": 220.65,
+      "to_km": 220.9,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 228.5,
+      "to_km": 228.8,
+      "speed_kmh": 75
+    },
+    {
+      "from_km": 228.8,
+      "to_km": 231.4,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 236.95,
+      "to_km": 237.4,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 240.1,
+      "to_km": 240.3,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 253.9,
+      "to_km": 255.5,
+      "speed_kmh": 110
+    },
+    {
+      "from_km": 255.7,
+      "to_km": 255.9,
+      "speed_kmh": 20
+    },
+    {
+      "from_km": 255.9,
+      "to_km": 256.07,
+      "speed_kmh": 120
+    },
+    {
+      "from_km": 260.54,
+      "to_km": 260.66,
+      "speed_kmh": 85
+    },
+    {
+      "from_km": 261.78,
+      "to_km": 261.9,
+      "speed_kmh": 65
+    },
+    {
+      "from_km": 261.9,
+      "to_km": 264.78,
+      "speed_kmh": 120
+    },
+    {
+      "from_km": 270.12,
+      "to_km": 270.36,
+      "speed_kmh": 80
+    },
+    {
+      "from_km": 270.54,
+      "to_km": 271.48,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 290.78,
+      "to_km": 291.36,
+      "speed_kmh": 110
+    },
+    {
+      "from_km": 299,
+      "to_km": 299.84,
+      "speed_kmh": 15
+    },
+    {
+      "from_km": 316.12,
+      "to_km": 317.12,
+      "speed_kmh": 120
+    },
+    {
+      "from_km": 317.12,
+      "to_km": 317.84,
+      "speed_kmh": 110
+    },
+    {
+      "from_km": 327.66,
+      "to_km": 328.18,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 331.66,
+      "to_km": 332.6,
+      "speed_kmh": 120
+    },
+    {
+      "from_km": 333.18,
+      "to_km": 334.6,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 334.6,
+      "to_km": 334.66,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 339.72,
+      "to_km": 340.24,
+      "speed_kmh": 120
+    },
+    {
+      "from_km": 342.72,
+      "to_km": 344.6,
+      "speed_kmh": 120
+    },
+    {
+      "from_km": 344.6,
+      "to_km": 346.06,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 364.24,
+      "to_km": 364.3,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 393.3,
+      "to_km": 393.36,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 398.66,
+      "to_km": 399.48,
+      "speed_kmh": 120
+    },
+    {
+      "from_km": 403.45,
+      "to_km": 405.6,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 405.6,
+      "to_km": 406.6,
+      "speed_kmh": 80
+    },
+    {
+      "from_km": 406.6,
+      "to_km": 407.48,
+      "speed_kmh": 70
+    },
+    {
+      "from_km": 407.48,
+      "to_km": 408.48,
+      "speed_kmh": 80
+    },
+    {
+      "from_km": 408.48,
+      "to_km": 409,
+      "speed_kmh": 65
+    },
+    {
+      "from_km": 409,
+      "to_km": 410.78,
+      "speed_kmh": 80
+    },
+    {
+      "from_km": 410.78,
+      "to_km": 410.84,
+      "speed_kmh": 20
+    },
+    {
+      "from_km": 414.9,
+      "to_km": 414.96,
+      "speed_kmh": 45
+    },
+    {
+      "from_km": 414.96,
+      "to_km": 422.2,
+      "speed_kmh": 80
+    },
+    {
+      "from_km": 422.2,
+      "to_km": 425.54,
+      "speed_kmh": 55
+    },
+    {
+      "from_km": 455.66,
+      "to_km": 456.06,
+      "speed_kmh": 75
+    },
+    {
+      "from_km": 460.12,
+      "to_km": 461.12,
+      "speed_kmh": 75
+    },
+    {
+      "from_km": 461.12,
+      "to_km": 461.3,
+      "speed_kmh": 45
+    },
+    {
+      "from_km": 461.3,
+      "to_km": 461.42,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 463,
+      "to_km": 464,
+      "speed_kmh": 90
+    },
+    {
+      "from_km": 466.12,
+      "to_km": 466.66,
+      "speed_kmh": 80
+    },
+    {
+      "from_km": 467.99,
+      "to_km": 469.06,
+      "speed_kmh": 60
+    },
+    {
+      "from_km": 469.06,
+      "to_km": 470.99,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 477.06,
+      "to_km": 477.72,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 534.18,
+      "to_km": 534.78,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 549.06,
+      "to_km": 549.94,
+      "speed_kmh": 90
+    },
+    {
+      "from_km": 549.94,
+      "to_km": 553.48,
+      "speed_kmh": 50
+    },
+    {
+      "from_km": 554.3,
+      "to_km": 554.36,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 565.66,
+      "to_km": 565.72,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 657.78,
+      "to_km": 657.84,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 666.42,
+      "to_km": 666.84,
+      "speed_kmh": 120
+    },
+    {
+      "from_km": 668.06,
+      "to_km": 669.99,
+      "speed_kmh": 80
+    },
+    {
+      "from_km": 673.34,
+      "to_km": 673.99,
+      "speed_kmh": 10
+    },
+    {
+      "from_km": 683.6,
+      "to_km": 684.7,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 684.7,
+      "to_km": 685.7,
+      "speed_kmh": 75
+    },
+    {
+      "from_km": 692.55,
+      "to_km": 692.65,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 701.7,
+      "to_km": 702.12,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 704.2,
+      "to_km": 705.7,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 725.86,
+      "to_km": 725.93,
+      "speed_kmh": 50
+    },
+    {
+      "from_km": 740.25,
+      "to_km": 740.5,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 742.7,
+      "to_km": 743.9,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 749.4,
+      "to_km": 754.2,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 815.85,
+      "to_km": 815.9,
+      "speed_kmh": 45
+    },
+    {
+      "from_km": 815.9,
+      "to_km": 815.95,
+      "speed_kmh": 20
+    },
+    {
+      "from_km": 824.1,
+      "to_km": 824.8,
+      "speed_kmh": 60
+    },
+    {
+      "from_km": 826.1,
+      "to_km": 827.3,
+      "speed_kmh": 75
+    },
+    {
+      "from_km": 828.2,
+      "to_km": 829.2,
+      "speed_kmh": 75
+    },
+    {
+      "from_km": 858.5,
+      "to_km": 859.5,
+      "speed_kmh": 50
+    },
+    {
+      "from_km": 966.2,
+      "to_km": 966.3,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 1015.6,
+      "to_km": 1016.3,
+      "speed_kmh": 40
+    },
+    {
+      "from_km": 1016.3,
+      "to_km": 1018.95,
+      "speed_kmh": 50
+    },
+    {
+      "from_km": 1018.95,
+      "to_km": 1018.97,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 1019.1,
+      "to_km": 1019.24,
+      "speed_kmh": 15
+    },
+    {
+      "from_km": 1021.5,
+      "to_km": 1021.57,
+      "speed_kmh": 50
+    },
+    {
+      "from_km": 1028.36,
+      "to_km": 1028.41,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 1125.8,
+      "to_km": 1125.87,
+      "speed_kmh": 20
+    },
+    {
+      "from_km": 1156.7,
+      "to_km": 1156.91,
+      "speed_kmh": 110
+    },
+    {
+      "from_km": 1198.1,
+      "to_km": 1198.8,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 1222.6,
+      "to_km": 1222.9,
+      "speed_kmh": 120
+    },
+    {
+      "from_km": 1241.65,
+      "to_km": 1242.2,
+      "speed_kmh": 75
+    },
+    {
+      "from_km": 1242.2,
+      "to_km": 1243.1,
+      "speed_kmh": 40
+    },
+    {
+      "from_km": 1247.8,
+      "to_km": 1247.9,
+      "speed_kmh": 15
+    },
+    {
+      "from_km": 1248.15,
+      "to_km": 1248.95,
+      "speed_kmh": 30
+    },
+    {
+      "from_km": 1248.95,
+      "to_km": 1250.65,
+      "speed_kmh": 65
+    },
+    {
+      "from_km": 1326.15,
+      "to_km": 1326.35,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 1398.8,
+      "to_km": 1398.9,
+      "speed_kmh": 20
+    },
+    {
+      "from_km": 1431.35,
+      "to_km": 1434.75,
+      "speed_kmh": 100
+    },
+    {
+      "from_km": 1435,
+      "to_km": 1435.1,
+      "speed_kmh": 45
+    },
+    {
+      "from_km": 1440.1,
+      "to_km": 1440.5,
+      "speed_kmh": 70
+    },
+    {
+      "from_km": 1455.1,
+      "to_km": 1456.1,
+      "speed_kmh": 70
+    },
+    {
+      "from_km": 1456.1,
+      "to_km": 1459,
+      "speed_kmh": 15
+    }
+  ]
+}

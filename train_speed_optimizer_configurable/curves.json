@@ -1,0 +1,1929 @@
+{
+  "source_file": "Curves.xlsx",
+  "units": {
+    "chainage": "km",
+    "curve_degree": "degree"
+  },
+  "curves": [
+    {
+      "from_km": 0.3,
+      "to_km": 0.37,
+      "degree": 5.7
+    },
+    {
+      "from_km": 0.56,
+      "to_km": 0.72,
+      "degree": 4.3
+    },
+    {
+      "from_km": 1.85,
+      "to_km": 2.95,
+      "degree": 3.2
+    },
+    {
+      "from_km": 2.95,
+      "to_km": 2.966,
+      "degree": 1.75
+    },
+    {
+      "from_km": 3.533,
+      "to_km": 3.866,
+      "degree": 0.75
+    },
+    {
+      "from_km": 4.07,
+      "to_km": 4.532,
+      "degree": 1
+    },
+    {
+      "from_km": 4.532,
+      "to_km": 5.933,
+      "degree": 1.5
+    },
+    {
+      "from_km": 6.22,
+      "to_km": 6.911,
+      "degree": 1.05
+    },
+    {
+      "from_km": 7.966,
+      "to_km": 9.866,
+      "degree": 2.33
+    },
+    {
+      "from_km": 12.07,
+      "to_km": 13.35,
+      "degree": 2.1
+    },
+    {
+      "from_km": 16.333,
+      "to_km": 16.933,
+      "degree": 1
+    },
+    {
+      "from_km": 20.899,
+      "to_km": 21.667,
+      "degree": 0.5
+    },
+    {
+      "from_km": 30.575,
+      "to_km": 31.2,
+      "degree": 0.5
+    },
+    {
+      "from_km": 36.32,
+      "to_km": 36.84,
+      "degree": 0.4
+    },
+    {
+      "from_km": 49.933,
+      "to_km": 50.3,
+      "degree": 0.62
+    },
+    {
+      "from_km": 56.05,
+      "to_km": 56.8,
+      "degree": 1.08
+    },
+    {
+      "from_km": 58.3,
+      "to_km": 58.8,
+      "degree": 1.14
+    },
+    {
+      "from_km": 61.32,
+      "to_km": 61.96,
+      "degree": 1.25
+    },
+    {
+      "from_km": 68.466,
+      "to_km": 68.866,
+      "degree": 0.63
+    },
+    {
+      "from_km": 72.514,
+      "to_km": 72.857,
+      "degree": 0.91
+    },
+    {
+      "from_km": 79.16,
+      "to_km": 81.129,
+      "degree": 1.08
+    },
+    {
+      "from_km": 93.799,
+      "to_km": 94.199,
+      "degree": 0.56
+    },
+    {
+      "from_km": 94.325,
+      "to_km": 94.9,
+      "degree": 1.26
+    },
+    {
+      "from_km": 94.9,
+      "to_km": 95.16,
+      "degree": 1
+    },
+    {
+      "from_km": 95.26,
+      "to_km": 95.8,
+      "degree": 1
+    },
+    {
+      "from_km": 99.525,
+      "to_km": 99.925,
+      "degree": 0.73
+    },
+    {
+      "from_km": 99.933,
+      "to_km": 100.266,
+      "degree": 1.09
+    },
+    {
+      "from_km": 100.266,
+      "to_km": 103.993,
+      "degree": 0.39
+    },
+    {
+      "from_km": 104.199,
+      "to_km": 104.399,
+      "degree": 1.75
+    },
+    {
+      "from_km": 104.533,
+      "to_km": 104.799,
+      "degree": 1
+    },
+    {
+      "from_km": 105.05,
+      "to_km": 106.6,
+      "degree": 0.5
+    },
+    {
+      "from_km": 108.5,
+      "to_km": 110.9,
+      "degree": 0.38
+    },
+    {
+      "from_km": 118.133,
+      "to_km": 119.8,
+      "degree": 0.38
+    },
+    {
+      "from_km": 128.3,
+      "to_km": 129.05,
+      "degree": 0.5
+    },
+    {
+      "from_km": 129.4,
+      "to_km": 129.7,
+      "degree": 0.5
+    },
+    {
+      "from_km": 129.9,
+      "to_km": 130.3,
+      "degree": 0.5
+    },
+    {
+      "from_km": 130.55,
+      "to_km": 130.7,
+      "degree": 0.5
+    },
+    {
+      "from_km": 132.1,
+      "to_km": 133.2,
+      "degree": 0.5
+    },
+    {
+      "from_km": 138.3,
+      "to_km": 139.4,
+      "degree": 0.5
+    },
+    {
+      "from_km": 144.95,
+      "to_km": 145.5,
+      "degree": 0.5
+    },
+    {
+      "from_km": 152.15,
+      "to_km": 154.4,
+      "degree": 0.5
+    },
+    {
+      "from_km": 160.9,
+      "to_km": 161.65,
+      "degree": 0.5
+    },
+    {
+      "from_km": 163.55,
+      "to_km": 164.4,
+      "degree": 0.74
+    },
+    {
+      "from_km": 166.25,
+      "to_km": 167.3,
+      "degree": 1.1
+    },
+    {
+      "from_km": 175.9,
+      "to_km": 176.83,
+      "degree": 0.56
+    },
+    {
+      "from_km": 182.9,
+      "to_km": 183.3,
+      "degree": 1.5
+    },
+    {
+      "from_km": 191.03,
+      "to_km": 191.4,
+      "degree": 0.5
+    },
+    {
+      "from_km": 194.03,
+      "to_km": 195.21,
+      "degree": 1.5
+    },
+    {
+      "from_km": 196.15,
+      "to_km": 197.95,
+      "degree": 1
+    },
+    {
+      "from_km": 199.2,
+      "to_km": 199.8,
+      "degree": 0.75
+    },
+    {
+      "from_km": 202.9,
+      "to_km": 203.8,
+      "degree": 1
+    },
+    {
+      "from_km": 204.45,
+      "to_km": 205.05,
+      "degree": 1.25
+    },
+    {
+      "from_km": 208.35,
+      "to_km": 209.8,
+      "degree": 0.75
+    },
+    {
+      "from_km": 210.2,
+      "to_km": 210.6,
+      "degree": 1
+    },
+    {
+      "from_km": 210.85,
+      "to_km": 211.5,
+      "degree": 0.5
+    },
+    {
+      "from_km": 259.05,
+      "to_km": 259.9,
+      "degree": 0.57
+    },
+    {
+      "from_km": 260.24,
+      "to_km": 260.84,
+      "degree": 1.48
+    },
+    {
+      "from_km": 260.84,
+      "to_km": 261.02,
+      "degree": 0.72
+    },
+    {
+      "from_km": 261.84,
+      "to_km": 262.72,
+      "degree": 2.08
+    },
+    {
+      "from_km": 263.02,
+      "to_km": 263.84,
+      "degree": 2.03
+    },
+    {
+      "from_km": 264.54,
+      "to_km": 265.72,
+      "degree": 0.55
+    },
+    {
+      "from_km": 267.6,
+      "to_km": 268.48,
+      "degree": 1.04
+    },
+    {
+      "from_km": 269.24,
+      "to_km": 269.48,
+      "degree": 1.04
+    },
+    {
+      "from_km": 269.66,
+      "to_km": 269.96,
+      "degree": 2.15
+    },
+    {
+      "from_km": 270.12,
+      "to_km": 270.42,
+      "degree": 2.18
+    },
+    {
+      "from_km": 270.48,
+      "to_km": 270.9,
+      "degree": 1.65
+    },
+    {
+      "from_km": 271.23,
+      "to_km": 272.02,
+      "degree": 1.73
+    },
+    {
+      "from_km": 278.6,
+      "to_km": 279.42,
+      "degree": 1
+    },
+    {
+      "from_km": 284.3,
+      "to_km": 284.78,
+      "degree": 1
+    },
+    {
+      "from_km": 286.06,
+      "to_km": 286.78,
+      "degree": 1
+    },
+    {
+      "from_km": 288.3,
+      "to_km": 289.12,
+      "degree": 1
+    },
+    {
+      "from_km": 290.78,
+      "to_km": 291.66,
+      "degree": 1
+    },
+    {
+      "from_km": 294.36,
+      "to_km": 294.9,
+      "degree": 1
+    },
+    {
+      "from_km": 295.78,
+      "to_km": 296.54,
+      "degree": 1
+    },
+    {
+      "from_km": 301.08,
+      "to_km": 302.08,
+      "degree": 1
+    },
+    {
+      "from_km": 303.42,
+      "to_km": 303.66,
+      "degree": 0.75
+    },
+    {
+      "from_km": 305.12,
+      "to_km": 305.72,
+      "degree": 1
+    },
+    {
+      "from_km": 307.72,
+      "to_km": 308.66,
+      "degree": 1
+    },
+    {
+      "from_km": 311.78,
+      "to_km": 312.24,
+      "degree": 1
+    },
+    {
+      "from_km": 314.12,
+      "to_km": 314.6,
+      "degree": 1.06
+    },
+    {
+      "from_km": 316.12,
+      "to_km": 317.26,
+      "degree": 2.03
+    },
+    {
+      "from_km": 317.26,
+      "to_km": 317.96,
+      "degree": 1.5
+    },
+    {
+      "from_km": 320.03,
+      "to_km": 320.42,
+      "degree": 1
+    },
+    {
+      "from_km": 321.66,
+      "to_km": 322.96,
+      "degree": 1.5
+    },
+    {
+      "from_km": 323.24,
+      "to_km": 324.42,
+      "degree": 1
+    },
+    {
+      "from_km": 327.6,
+      "to_km": 328.18,
+      "degree": 2.06
+    },
+    {
+      "from_km": 328.24,
+      "to_km": 328.9,
+      "degree": 1.5
+    },
+    {
+      "from_km": 329.78,
+      "to_km": 330.6,
+      "degree": 1.5
+    },
+    {
+      "from_km": 331.66,
+      "to_km": 332.6,
+      "degree": 2.15
+    },
+    {
+      "from_km": 333.18,
+      "to_km": 333.96,
+      "degree": 2.18
+    },
+    {
+      "from_km": 333.96,
+      "to_km": 335.54,
+      "degree": 1.75
+    },
+    {
+      "from_km": 336.18,
+      "to_km": 336.96,
+      "degree": 1.25
+    },
+    {
+      "from_km": 339.72,
+      "to_km": 340.24,
+      "degree": 2.18
+    },
+    {
+      "from_km": 342.72,
+      "to_km": 343.84,
+      "degree": 2
+    },
+    {
+      "from_km": 344.6,
+      "to_km": 346.03,
+      "degree": 2
+    },
+    {
+      "from_km": 348.03,
+      "to_km": 348.48,
+      "degree": 1.09
+    },
+    {
+      "from_km": 352.36,
+      "to_km": 352.9,
+      "degree": 1.55
+    },
+    {
+      "from_km": 353.6,
+      "to_km": 354.54,
+      "degree": 1.05
+    },
+    {
+      "from_km": 354.66,
+      "to_km": 355.3,
+      "degree": 1.29
+    },
+    {
+      "from_km": 357.6,
+      "to_km": 358.24,
+      "degree": 1.06
+    },
+    {
+      "from_km": 361.54,
+      "to_km": 362.24,
+      "degree": 1
+    },
+    {
+      "from_km": 363.24,
+      "to_km": 364.03,
+      "degree": 1.03
+    },
+    {
+      "from_km": 364.66,
+      "to_km": 365.48,
+      "degree": 1.01
+    },
+    {
+      "from_km": 369.24,
+      "to_km": 369.78,
+      "degree": 0.995
+    },
+    {
+      "from_km": 374.12,
+      "to_km": 374.6,
+      "degree": 1
+    },
+    {
+      "from_km": 376.66,
+      "to_km": 377.48,
+      "degree": 0.56
+    },
+    {
+      "from_km": 380.6,
+      "to_km": 381.72,
+      "degree": 1
+    },
+    {
+      "from_km": 384.54,
+      "to_km": 385.72,
+      "degree": 1.02
+    },
+    {
+      "from_km": 387.03,
+      "to_km": 388.3,
+      "degree": 1
+    },
+    {
+      "from_km": 390.12,
+      "to_km": 391.12,
+      "degree": 1.03
+    },
+    {
+      "from_km": 394.84,
+      "to_km": 396.12,
+      "degree": 1.05
+    },
+    {
+      "from_km": 397.72,
+      "to_km": 398.12,
+      "degree": 1.05
+    },
+    {
+      "from_km": 398.66,
+      "to_km": 399.48,
+      "degree": 2.06
+    },
+    {
+      "from_km": 400.3,
+      "to_km": 401.72,
+      "degree": 1.03
+    },
+    {
+      "from_km": 401.72,
+      "to_km": 402.18,
+      "degree": 1.01
+    },
+    {
+      "from_km": 405.6,
+      "to_km": 406.03,
+      "degree": 2.25
+    },
+    {
+      "from_km": 406.6,
+      "to_km": 407.48,
+      "degree": 3.09
+    },
+    {
+      "from_km": 407.66,
+      "to_km": 408.66,
+      "degree": 3.09
+    },
+    {
+      "from_km": 410.54,
+      "to_km": 411.48,
+      "degree": 3.78
+    },
+    {
+      "from_km": 411.6,
+      "to_km": 412.08,
+      "degree": 2.06
+    },
+    {
+      "from_km": 412.6,
+      "to_km": 412.9,
+      "degree": 2.05
+    },
+    {
+      "from_km": 412.96,
+      "to_km": 414.38,
+      "degree": 3.08
+    },
+    {
+      "from_km": 414.38,
+      "to_km": 415.12,
+      "degree": 3.08
+    },
+    {
+      "from_km": 415.12,
+      "to_km": 416.66,
+      "degree": 3.62
+    },
+    {
+      "from_km": 416.72,
+      "to_km": 417.03,
+      "degree": 3.08
+    },
+    {
+      "from_km": 417.18,
+      "to_km": 417.84,
+      "degree": 3.08
+    },
+    {
+      "from_km": 418.3,
+      "to_km": 418.66,
+      "degree": 2.06
+    },
+    {
+      "from_km": 419.12,
+      "to_km": 419.72,
+      "degree": 2.05
+    },
+    {
+      "from_km": 419.72,
+      "to_km": 420.42,
+      "degree": 2.05
+    },
+    {
+      "from_km": 420.48,
+      "to_km": 421.3,
+      "degree": 1.03
+    },
+    {
+      "from_km": 421.42,
+      "to_km": 422.12,
+      "degree": 2.06
+    },
+    {
+      "from_km": 424.72,
+      "to_km": 425.03,
+      "degree": 1.05
+    },
+    {
+      "from_km": 433.66,
+      "to_km": 434.42,
+      "degree": 1.05
+    },
+    {
+      "from_km": 455.72,
+      "to_km": 456.24,
+      "degree": 0.47
+    },
+    {
+      "from_km": 457.12,
+      "to_km": 457.48,
+      "degree": 0.6
+    },
+    {
+      "from_km": 458.36,
+      "to_km": 459.78,
+      "degree": 1.02
+    },
+    {
+      "from_km": 463,
+      "to_km": 464.18,
+      "degree": 3
+    },
+    {
+      "from_km": 466.12,
+      "to_km": 466.66,
+      "degree": 2
+    },
+    {
+      "from_km": 467.54,
+      "to_km": 467.99,
+      "degree": 2.5
+    },
+    {
+      "from_km": 468.18,
+      "to_km": 469.48,
+      "degree": 4.75
+    },
+    {
+      "from_km": 469.96,
+      "to_km": 470.99,
+      "degree": 4.75
+    },
+    {
+      "from_km": 472.48,
+      "to_km": 472.99,
+      "degree": 1
+    },
+    {
+      "from_km": 477.54,
+      "to_km": 478.06,
+      "degree": 0.5
+    },
+    {
+      "from_km": 478.42,
+      "to_km": 479.06,
+      "degree": 0.5
+    },
+    {
+      "from_km": 482.06,
+      "to_km": 482.66,
+      "degree": 0.5
+    },
+    {
+      "from_km": 493.3,
+      "to_km": 493.66,
+      "degree": 0.5
+    },
+    {
+      "from_km": 505.12,
+      "to_km": 506.3,
+      "degree": 0.5
+    },
+    {
+      "from_km": 510.06,
+      "to_km": 510.72,
+      "degree": 1
+    },
+    {
+      "from_km": 524.42,
+      "to_km": 524.72,
+      "degree": 0.5
+    },
+    {
+      "from_km": 545.24,
+      "to_km": 546.72,
+      "degree": 0.75
+    },
+    {
+      "from_km": 556.06,
+      "to_km": 556.78,
+      "degree": 1.12
+    },
+    {
+      "from_km": 564.66,
+      "to_km": 565.06,
+      "degree": 0.63
+    },
+    {
+      "from_km": 565.72,
+      "to_km": 567.18,
+      "degree": 0.7
+    },
+    {
+      "from_km": 570.36,
+      "to_km": 571.36,
+      "degree": 0.7
+    },
+    {
+      "from_km": 571.48,
+      "to_km": 571.66,
+      "degree": 0.42
+    },
+    {
+      "from_km": 571.72,
+      "to_km": 571.96,
+      "degree": 0.42
+    },
+    {
+      "from_km": 573.12,
+      "to_km": 573.54,
+      "degree": 0.45
+    },
+    {
+      "from_km": 573.72,
+      "to_km": 576.24,
+      "degree": 0.56
+    },
+    {
+      "from_km": 581.48,
+      "to_km": 581.78,
+      "degree": 0.32
+    },
+    {
+      "from_km": 594.36,
+      "to_km": 594.72,
+      "degree": 0.5
+    },
+    {
+      "from_km": 599.3,
+      "to_km": 599.54,
+      "degree": 1
+    },
+    {
+      "from_km": 600.42,
+      "to_km": 600.66,
+      "degree": 0.5
+    },
+    {
+      "from_km": 621.3,
+      "to_km": 621.9,
+      "degree": 1
+    },
+    {
+      "from_km": 629.66,
+      "to_km": 630.3,
+      "degree": 1
+    },
+    {
+      "from_km": 631.42,
+      "to_km": 632.36,
+      "degree": 1
+    },
+    {
+      "from_km": 643.42,
+      "to_km": 643.72,
+      "degree": 1.25
+    },
+    {
+      "from_km": 646.12,
+      "to_km": 646.42,
+      "degree": 1
+    },
+    {
+      "from_km": 649.84,
+      "to_km": 650.3,
+      "degree": 1
+    },
+    {
+      "from_km": 651.48,
+      "to_km": 651.66,
+      "degree": 0.5
+    },
+    {
+      "from_km": 659.66,
+      "to_km": 660.06,
+      "degree": 1.25
+    },
+    {
+      "from_km": 666.42,
+      "to_km": 667.66,
+      "degree": 2
+    },
+    {
+      "from_km": 668.6,
+      "to_km": 670.72,
+      "degree": 0.35
+    },
+    {
+      "from_km": 692.498,
+      "to_km": 695.11,
+      "degree": 0.21
+    },
+    {
+      "from_km": 701.2,
+      "to_km": 701.94,
+      "degree": 0.56
+    },
+    {
+      "from_km": 702.15,
+      "to_km": 704,
+      "degree": 0.56
+    },
+    {
+      "from_km": 704.075,
+      "to_km": 704.219,
+      "degree": 0.28
+    },
+    {
+      "from_km": 704.451,
+      "to_km": 704.64,
+      "degree": 0.28
+    },
+    {
+      "from_km": 704.84,
+      "to_km": 704.94,
+      "degree": 0.5
+    },
+    {
+      "from_km": 705.29,
+      "to_km": 705.41,
+      "degree": 0.56
+    },
+    {
+      "from_km": 712.17,
+      "to_km": 713.83,
+      "degree": 0.6
+    },
+    {
+      "from_km": 718.99,
+      "to_km": 719.42,
+      "degree": 1
+    },
+    {
+      "from_km": 719.53,
+      "to_km": 719.92,
+      "degree": 0.96
+    },
+    {
+      "from_km": 733.5,
+      "to_km": 734.8,
+      "degree": 0.53
+    },
+    {
+      "from_km": 735,
+      "to_km": 735.15,
+      "degree": 0.86
+    },
+    {
+      "from_km": 735.15,
+      "to_km": 735.34,
+      "degree": 0.76
+    },
+    {
+      "from_km": 736.05,
+      "to_km": 736.17,
+      "degree": 3.98
+    },
+    {
+      "from_km": 742.62,
+      "to_km": 742.9,
+      "degree": 0.5
+    },
+    {
+      "from_km": 743,
+      "to_km": 743.24,
+      "degree": 0.58
+    },
+    {
+      "from_km": 743.47,
+      "to_km": 743.56,
+      "degree": 0.53
+    },
+    {
+      "from_km": 743.91,
+      "to_km": 745.06,
+      "degree": 0.44
+    },
+    {
+      "from_km": 749.35,
+      "to_km": 751.27,
+      "degree": 1.16
+    },
+    {
+      "from_km": 751.3,
+      "to_km": 754.04,
+      "degree": 0.46
+    },
+    {
+      "from_km": 767.48,
+      "to_km": 769.23,
+      "degree": 0.5
+    },
+    {
+      "from_km": 777.95,
+      "to_km": 778.16,
+      "degree": 0.89
+    },
+    {
+      "from_km": 778.22,
+      "to_km": 778.41,
+      "degree": 1.2
+    },
+    {
+      "from_km": 778.99,
+      "to_km": 779.23,
+      "degree": 0.84
+    },
+    {
+      "from_km": 779.23,
+      "to_km": 779.41,
+      "degree": 0.94
+    },
+    {
+      "from_km": 786.37,
+      "to_km": 786.61,
+      "degree": 0.5
+    },
+    {
+      "from_km": 786.83,
+      "to_km": 787.07,
+      "degree": 0.5
+    },
+    {
+      "from_km": 787.29,
+      "to_km": 787.55,
+      "degree": 0.38
+    },
+    {
+      "from_km": 787.69,
+      "to_km": 787.93,
+      "degree": 0.5
+    },
+    {
+      "from_km": 791.27,
+      "to_km": 792.27,
+      "degree": 0.5
+    },
+    {
+      "from_km": 792.8,
+      "to_km": 794.44,
+      "degree": 0.5
+    },
+    {
+      "from_km": 806.3,
+      "to_km": 807.32,
+      "degree": 0.875
+    },
+    {
+      "from_km": 815.97,
+      "to_km": 816.64,
+      "degree": 1.05
+    },
+    {
+      "from_km": 820.57,
+      "to_km": 820.99,
+      "degree": 0.2
+    },
+    {
+      "from_km": 822.02,
+      "to_km": 822.26,
+      "degree": 0.4
+    },
+    {
+      "from_km": 823.04,
+      "to_km": 824.46,
+      "degree": 1.25
+    },
+    {
+      "from_km": 826.27,
+      "to_km": 827.21,
+      "degree": 2
+    },
+    {
+      "from_km": 828.18,
+      "to_km": 829.16,
+      "degree": 1.2
+    },
+    {
+      "from_km": 829.3,
+      "to_km": 829.61,
+      "degree": 0.51
+    },
+    {
+      "from_km": 829.72,
+      "to_km": 830.03,
+      "degree": 0.7
+    },
+    {
+      "from_km": 833.16,
+      "to_km": 833.57,
+      "degree": 0.56
+    },
+    {
+      "from_km": 835.068,
+      "to_km": 835.248,
+      "degree": 0.43
+    },
+    {
+      "from_km": 835.248,
+      "to_km": 835.448,
+      "degree": 0.45
+    },
+    {
+      "from_km": 837.044,
+      "to_km": 839.125,
+      "degree": 0.4
+    },
+    {
+      "from_km": 842.5,
+      "to_km": 842.68,
+      "degree": 0.36
+    },
+    {
+      "from_km": 842.68,
+      "to_km": 842.86,
+      "degree": 0.36
+    },
+    {
+      "from_km": 842.93,
+      "to_km": 843.127,
+      "degree": 0.36
+    },
+    {
+      "from_km": 843.189,
+      "to_km": 843.309,
+      "degree": 0.36
+    },
+    {
+      "from_km": 861.621,
+      "to_km": 861.791,
+      "degree": 0.38
+    },
+    {
+      "from_km": 861.791,
+      "to_km": 862.033,
+      "degree": 0.4
+    },
+    {
+      "from_km": 862.651,
+      "to_km": 862.811,
+      "degree": 0.85
+    },
+    {
+      "from_km": 862.811,
+      "to_km": 863.064,
+      "degree": 0.85
+    },
+    {
+      "from_km": 863.132,
+      "to_km": 863.272,
+      "degree": 0.75
+    },
+    {
+      "from_km": 863.441,
+      "to_km": 863.681,
+      "degree": 0.5
+    },
+    {
+      "from_km": 881.554,
+      "to_km": 881.78,
+      "degree": 0.5
+    },
+    {
+      "from_km": 882.01,
+      "to_km": 882.26,
+      "degree": 0.43
+    },
+    {
+      "from_km": 882.35,
+      "to_km": 882.586,
+      "degree": 0.5
+    },
+    {
+      "from_km": 882.93,
+      "to_km": 883.207,
+      "degree": 0.4
+    },
+    {
+      "from_km": 894.207,
+      "to_km": 894.35,
+      "degree": 0.39
+    },
+    {
+      "from_km": 894.43,
+      "to_km": 894.56,
+      "degree": 0.46
+    },
+    {
+      "from_km": 894.73,
+      "to_km": 894.89,
+      "degree": 0.6
+    },
+    {
+      "from_km": 895.95,
+      "to_km": 896.12,
+      "degree": 0.48
+    },
+    {
+      "from_km": 906.343,
+      "to_km": 906.347,
+      "degree": 0.45
+    },
+    {
+      "from_km": 906.347,
+      "to_km": 907.52,
+      "degree": 0.38
+    },
+    {
+      "from_km": 907.76,
+      "to_km": 907.9,
+      "degree": 0.8
+    },
+    {
+      "from_km": 908.29,
+      "to_km": 908.56,
+      "degree": 0.3
+    },
+    {
+      "from_km": 930.1,
+      "to_km": 930.22,
+      "degree": 0.46
+    },
+    {
+      "from_km": 930.26,
+      "to_km": 930.45,
+      "degree": 0.63
+    },
+    {
+      "from_km": 931.46,
+      "to_km": 931.61,
+      "degree": 0.6
+    },
+    {
+      "from_km": 931.63,
+      "to_km": 931.8,
+      "degree": 0.63
+    },
+    {
+      "from_km": 940.99,
+      "to_km": 941.19,
+      "degree": 0.74
+    },
+    {
+      "from_km": 941.82,
+      "to_km": 942.12,
+      "degree": 0.32
+    },
+    {
+      "from_km": 942.32,
+      "to_km": 942.64,
+      "degree": 0.32
+    },
+    {
+      "from_km": 943.12,
+      "to_km": 943.34,
+      "degree": 0.56
+    },
+    {
+      "from_km": 943.34,
+      "to_km": 944.7,
+      "degree": 0.42
+    },
+    {
+      "from_km": 957.45,
+      "to_km": 957.61,
+      "degree": 0.455
+    },
+    {
+      "from_km": 957.65,
+      "to_km": 957.85,
+      "degree": 0.49
+    },
+    {
+      "from_km": 958.9,
+      "to_km": 959.03,
+      "degree": 0.68
+    },
+    {
+      "from_km": 959.1,
+      "to_km": 959.31,
+      "degree": 0.42
+    },
+    {
+      "from_km": 972,
+      "to_km": 972.72,
+      "degree": 0.35
+    },
+    {
+      "from_km": 973.192,
+      "to_km": 973.442,
+      "degree": 0.5
+    },
+    {
+      "from_km": 973.57,
+      "to_km": 973.8,
+      "degree": 0.5
+    },
+    {
+      "from_km": 974.372,
+      "to_km": 974.602,
+      "degree": 0.5
+    },
+    {
+      "from_km": 981.23,
+      "to_km": 982.34,
+      "degree": 0.6
+    },
+    {
+      "from_km": 983.217,
+      "to_km": 983.427,
+      "degree": 0.24
+    },
+    {
+      "from_km": 983.538,
+      "to_km": 983.828,
+      "degree": 0.53
+    },
+    {
+      "from_km": 984.214,
+      "to_km": 984.394,
+      "degree": 0.53
+    },
+    {
+      "from_km": 984.626,
+      "to_km": 986.516,
+      "degree": 0.42
+    },
+    {
+      "from_km": 986.828,
+      "to_km": 987.828,
+      "degree": 0.42
+    },
+    {
+      "from_km": 996.038,
+      "to_km": 996.258,
+      "degree": 0.51
+    },
+    {
+      "from_km": 996.298,
+      "to_km": 996.438,
+      "degree": 0.28
+    },
+    {
+      "from_km": 997.623,
+      "to_km": 997.793,
+      "degree": 0.39
+    },
+    {
+      "from_km": 997.823,
+      "to_km": 998.023,
+      "degree": 0.45
+    },
+    {
+      "from_km": 1001.347,
+      "to_km": 1003.473,
+      "degree": 0.42
+    },
+    {
+      "from_km": 1015.043,
+      "to_km": 1015.203,
+      "degree": 0.63
+    },
+    {
+      "from_km": 1015.223,
+      "to_km": 1015.363,
+      "degree": 0.53
+    },
+    {
+      "from_km": 1015.784,
+      "to_km": 1016.462,
+      "degree": 2
+    },
+    {
+      "from_km": 1016.632,
+      "to_km": 1017.372,
+      "degree": 2
+    },
+    {
+      "from_km": 1017.652,
+      "to_km": 1019.164,
+      "degree": 4
+    },
+    {
+      "from_km": 1027.63,
+      "to_km": 1027.79,
+      "degree": 0.24
+    },
+    {
+      "from_km": 1027.96,
+      "to_km": 1028.09,
+      "degree": 0.26
+    },
+    {
+      "from_km": 1029.11,
+      "to_km": 1029.32,
+      "degree": 0.28
+    },
+    {
+      "from_km": 1029.44,
+      "to_km": 1029.6,
+      "degree": 0.3
+    },
+    {
+      "from_km": 1037.75,
+      "to_km": 1038.04,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1038.22,
+      "to_km": 1038.5,
+      "degree": 0.49
+    },
+    {
+      "from_km": 1038.55,
+      "to_km": 1038.83,
+      "degree": 0.56
+    },
+    {
+      "from_km": 1038.91,
+      "to_km": 1039.21,
+      "degree": 0.56
+    },
+    {
+      "from_km": 1062.4,
+      "to_km": 1064.31,
+      "degree": 0.42
+    },
+    {
+      "from_km": 1079.618,
+      "to_km": 1079.818,
+      "degree": 0.08
+    },
+    {
+      "from_km": 1079.87,
+      "to_km": 1080.05,
+      "degree": 0.17
+    },
+    {
+      "from_km": 1081.121,
+      "to_km": 1081.311,
+      "degree": 0.08
+    },
+    {
+      "from_km": 1081.391,
+      "to_km": 1081.521,
+      "degree": 0.17
+    },
+    {
+      "from_km": 1098.854,
+      "to_km": 1099.114,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1099.164,
+      "to_km": 1099.554,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1116.344,
+      "to_km": 1116.454,
+      "degree": 0.1
+    },
+    {
+      "from_km": 1116.525,
+      "to_km": 1116.695,
+      "degree": 0.1
+    },
+    {
+      "from_km": 1118.008,
+      "to_km": 1118.158,
+      "degree": 0.1
+    },
+    {
+      "from_km": 1118.278,
+      "to_km": 1118.458,
+      "degree": 0.1
+    },
+    {
+      "from_km": 1123.145,
+      "to_km": 1125.25,
+      "degree": 0.25
+    },
+    {
+      "from_km": 1135.88,
+      "to_km": 1136.3,
+      "degree": 0.1
+    },
+    {
+      "from_km": 1137.01,
+      "to_km": 1137.44,
+      "degree": 0.1
+    },
+    {
+      "from_km": 1152,
+      "to_km": 1152.33,
+      "degree": 0.1
+    },
+    {
+      "from_km": 1154.576,
+      "to_km": 1156,
+      "degree": 0.617
+    },
+    {
+      "from_km": 1156.463,
+      "to_km": 1156.75,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1157.883,
+      "to_km": 1158.31,
+      "degree": 0.28
+    },
+    {
+      "from_km": 1166.15,
+      "to_km": 1166.39,
+      "degree": 0.1
+    },
+    {
+      "from_km": 1166.52,
+      "to_km": 1166.76,
+      "degree": 0.1
+    },
+    {
+      "from_km": 1172.23,
+      "to_km": 1172.49,
+      "degree": 0.2
+    },
+    {
+      "from_km": 1173.45,
+      "to_km": 1173.93,
+      "degree": 0.2
+    },
+    {
+      "from_km": 1179.49,
+      "to_km": 1180.08,
+      "degree": 0.2
+    },
+    {
+      "from_km": 1181.26,
+      "to_km": 1181.63,
+      "degree": 0.2
+    },
+    {
+      "from_km": 1181.84,
+      "to_km": 1182.18,
+      "degree": 0.2
+    },
+    {
+      "from_km": 1191.42,
+      "to_km": 1191.83,
+      "degree": 0.25
+    },
+    {
+      "from_km": 1192.7,
+      "to_km": 1193.13,
+      "degree": 0.25
+    },
+    {
+      "from_km": 1210.4,
+      "to_km": 1211.64,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1211.67,
+      "to_km": 1211.97,
+      "degree": 0.75
+    },
+    {
+      "from_km": 1212.6,
+      "to_km": 1213.02,
+      "degree": 0.25
+    },
+    {
+      "from_km": 1220.95,
+      "to_km": 1221.26,
+      "degree": 0.487
+    },
+    {
+      "from_km": 1221.56,
+      "to_km": 1221.63,
+      "degree": 0.75
+    },
+    {
+      "from_km": 1222.13,
+      "to_km": 1222.4,
+      "degree": 0.595
+    },
+    {
+      "from_km": 1222.61,
+      "to_km": 1222.85,
+      "degree": 0.507
+    },
+    {
+      "from_km": 1228.87,
+      "to_km": 1229.54,
+      "degree": 0.253
+    },
+    {
+      "from_km": 1229.89,
+      "to_km": 1230.05,
+      "degree": 0.175
+    },
+    {
+      "from_km": 1231.11,
+      "to_km": 1231.23,
+      "degree": 0.175
+    },
+    {
+      "from_km": 1231.23,
+      "to_km": 1231.37,
+      "degree": 0.175
+    },
+    {
+      "from_km": 1232.97,
+      "to_km": 1233.19,
+      "degree": 0.21
+    },
+    {
+      "from_km": 1233.22,
+      "to_km": 1233.44,
+      "degree": 0.175
+    },
+    {
+      "from_km": 1240.77,
+      "to_km": 1240.97,
+      "degree": 0.253
+    },
+    {
+      "from_km": 1240.97,
+      "to_km": 1241.15,
+      "degree": 0.245
+    },
+    {
+      "from_km": 1241.2,
+      "to_km": 1241.49,
+      "degree": 0.253
+    },
+    {
+      "from_km": 1241.54,
+      "to_km": 1241.74,
+      "degree": 0.253
+    },
+    {
+      "from_km": 1246.47,
+      "to_km": 1246.62,
+      "degree": 1.75
+    },
+    {
+      "from_km": 1246.81,
+      "to_km": 1246.94,
+      "degree": 1.75
+    },
+    {
+      "from_km": 1247.99,
+      "to_km": 1248.12,
+      "degree": 1.75
+    },
+    {
+      "from_km": 1248.12,
+      "to_km": 1248.23,
+      "degree": 1.75
+    },
+    {
+      "from_km": 1249.02,
+      "to_km": 1250.31,
+      "degree": 0.53
+    },
+    {
+      "from_km": 1250.63,
+      "to_km": 1250.91,
+      "degree": 1.2
+    },
+    {
+      "from_km": 1250.91,
+      "to_km": 1251.15,
+      "degree": 0.4
+    },
+    {
+      "from_km": 1251.26,
+      "to_km": 1251.56,
+      "degree": 1.15
+    },
+    {
+      "from_km": 1251.63,
+      "to_km": 1252.369,
+      "degree": 0.52
+    },
+    {
+      "from_km": 1254.27,
+      "to_km": 1254.48,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1254.48,
+      "to_km": 1254.68,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1255.842,
+      "to_km": 1256.252,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1262.127,
+      "to_km": 1262.507,
+      "degree": 0.52
+    },
+    {
+      "from_km": 1263.16,
+      "to_km": 1263.53,
+      "degree": 0.75
+    },
+    {
+      "from_km": 1275.362,
+      "to_km": 1275.712,
+      "degree": 0.53
+    },
+    {
+      "from_km": 1276.895,
+      "to_km": 1277.27,
+      "degree": 0.52
+    },
+    {
+      "from_km": 1304.198,
+      "to_km": 1304.568,
+      "degree": 0.42
+    },
+    {
+      "from_km": 1305.789,
+      "to_km": 1306.189,
+      "degree": 0.42
+    },
+    {
+      "from_km": 1322.048,
+      "to_km": 1322.908,
+      "degree": 0.35
+    },
+    {
+      "from_km": 1325.37,
+      "to_km": 1325.48,
+      "degree": 0.35
+    },
+    {
+      "from_km": 1325.5,
+      "to_km": 1325.61,
+      "degree": 0.35
+    },
+    {
+      "from_km": 1325.85,
+      "to_km": 1326,
+      "degree": 0.35
+    },
+    {
+      "from_km": 1326.13,
+      "to_km": 1326.29,
+      "degree": 0.4
+    },
+    {
+      "from_km": 1328.98,
+      "to_km": 1329.14,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1329.2,
+      "to_km": 1329.38,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1334.805,
+      "to_km": 1335.375,
+      "degree": 0.35
+    },
+    {
+      "from_km": 1347.462,
+      "to_km": 1347.762,
+      "degree": 0.35
+    },
+    {
+      "from_km": 1347.957,
+      "to_km": 1348.187,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1348.6,
+      "to_km": 1348.83,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1348.95,
+      "to_km": 1349.28,
+      "degree": 0.4
+    },
+    {
+      "from_km": 1374.92,
+      "to_km": 1375.1,
+      "degree": 0.4
+    },
+    {
+      "from_km": 1375.12,
+      "to_km": 1375.33,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1375.9,
+      "to_km": 1376.06,
+      "degree": 0.4
+    },
+    {
+      "from_km": 1376.08,
+      "to_km": 1376.26,
+      "degree": 0.4
+    },
+    {
+      "from_km": 1383.14,
+      "to_km": 1383.31,
+      "degree": 0.4
+    },
+    {
+      "from_km": 1383.33,
+      "to_km": 1383.49,
+      "degree": 0.3
+    },
+    {
+      "from_km": 1384.58,
+      "to_km": 1384.74,
+      "degree": 0.3
+    },
+    {
+      "from_km": 1384.97,
+      "to_km": 1385.13,
+      "degree": 0.3
+    },
+    {
+      "from_km": 1397.2,
+      "to_km": 1397.43,
+      "degree": 0.3
+    },
+    {
+      "from_km": 1397.44,
+      "to_km": 1397.69,
+      "degree": 0.2
+    },
+    {
+      "from_km": 1398.59,
+      "to_km": 1398.82,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1398.85,
+      "to_km": 1399.07,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1405.52,
+      "to_km": 1405.69,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1405.69,
+      "to_km": 1405.86,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1407.08,
+      "to_km": 1407.21,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1407.28,
+      "to_km": 1407.44,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1414.81,
+      "to_km": 1415.06,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1415.24,
+      "to_km": 1415.47,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1416.22,
+      "to_km": 1416.47,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1427.33,
+      "to_km": 1428.04,
+      "degree": 0.56
+    },
+    {
+      "from_km": 1428.04,
+      "to_km": 1432,
+      "degree": 0.21
+    },
+    {
+      "from_km": 1438.048,
+      "to_km": 1439.107,
+      "degree": 0.71
+    },
+    {
+      "from_km": 1439.361,
+      "to_km": 1439.491,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1439.591,
+      "to_km": 1439.699,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1440.06,
+      "to_km": 1440.915,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1441.124,
+      "to_km": 1441.436,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1441.814,
+      "to_km": 1441.94,
+      "degree": 0.5
+    },
+    {
+      "from_km": 1442.59,
+      "to_km": 1443.15,
+      "degree": 1.5
+    },
+    {
+      "from_km": 1443.15,
+      "to_km": 1443.27,
+      "degree": 3
+    },
+    {
+      "from_km": 1443.62,
+      "to_km": 1454.62,
+      "degree": 1
+    },
+    {
+      "from_km": 1454.62,
+      "to_km": 1455.62,
+      "degree": 3
+    }
+  ]
+}
