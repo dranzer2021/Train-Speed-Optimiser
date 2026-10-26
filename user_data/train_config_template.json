@@ -1,0 +1,23 @@
+{
+  "mass_kg": 1200000.0,
+  "davis_A_N": 6000.0,
+  "davis_B_N_per_mps": 120.0,
+  "davis_C_N_per_mps2": 6.0,
+  "traction_force_max_N": 300000.0,
+  "traction_power_max_W": 6000000.0,
+  "service_brake_force_max_N": 250000.0,
+  "rotating_mass_fraction": 0.08,
+  "max_accel_mps2": 0.5,
+  "max_decel_mps2": 0.5,
+  "traction_efficiency": 0.85,
+  "regen_efficiency": 0.3,
+  "regen_power_max_W": null,
+  "regen_acceptance": null,
+  "auxiliary_power_W": 300000.0,
+  "adhesion_coefficient": null,
+  "driven_weight_fraction": null,
+  "curve_resistance_coefficient_m2_s2": null,
+  "target_time_min": null,
+  "initial_speed_kmh": 0.0,
+  "final_speed_kmh": 0.0
+}

@@ -1,0 +1,6 @@
+chainage_m,speed_limit_kmh,gradient_permille,curve_radius_m
+0,100,0,inf
+500,100,0,800
+1000,80,2,800
+1500,80,2,inf
+2000,100,-1,inf
